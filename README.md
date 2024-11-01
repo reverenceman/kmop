@@ -1,2 +1,2 @@
 # kmop
-kmop_8월
+BDIV_Devton_KMOP
